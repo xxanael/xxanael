@@ -9,7 +9,7 @@
 ### 🛡️ À propos de moi
 * 🎓 Étudiant en première année de **Sécurité des Systèmes Informatiques (SSI)**.
 * 🛡️ Passionné par la cybersécurité et les compétitions **CTF** (Forensics, Reverse, Web, Pwn).
-* 🎮 Développeur du projet **Nexus-Arena** en C.
+* 🎮 Développeur du projet [Nexus-Arena](https://github.com/xxanael/Nexus-Arena) en C.
 * ✍️ Auteur de l'ebook **"Guide pratique du débutant - Devenir un expert en cybersécurité**.
 
 ### 🛠️ Stack Technique
