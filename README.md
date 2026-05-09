@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <a href="mailto:votre-email@exemple.com">
+  <a href="mailto: donasingbo332@gmail.com">
     <img src="https://img.shields.io/badge/Contactez--moi-Email-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
