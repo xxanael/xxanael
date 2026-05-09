@@ -20,7 +20,7 @@
 
 ### 🏆 Certifications & Réalisations
 *   ✅ **Foundational C# Certification** - Microsoft / freeCodeCamp.
-*   🌐 **Portfolio personnel :** [xxanael.github.io](https://xxanael.github.io).
+*   🌐 **Portfolio personnel :** [xxanael.github.io](https://xxanael.github.io/Portfolio_xxanael/).
 *   🧗 Challenger sur **Root-Me**, **Hack The Box** et **picoCTF**.
 
 ### 🕹️ Mes Intérêts
