@@ -10,6 +10,7 @@
 * 🎓 Étudiant en première année de **Sécurité des Systèmes Informatiques (SSI)**.
 * 🛡️ Passionné par la cybersécurité et les compétitions **CTF** (Forensics, Reverse, Web, Pwn).
 * 🎮 Développeur du projet [Nexus-Arena](https://github.com/xxanael/Nexus-Arena) en C.
+* 🚀 Vibe Coding Enthusiast : Capacité à prototyper et déployer des projets complexes en synergie avec l'IA.
 * ✍️ Auteur de l'ebook **"Guide pratique du débutant - Devenir un expert en cybersécurité**.
 
 ### 🛠️ Stack Technique
