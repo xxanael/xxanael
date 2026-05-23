@@ -27,7 +27,6 @@
   LANGUAGES  → C# · Python · C · SQL · HTML/CSS
   FOCUS      → Cybersecurity · Reverse Engineering · Pwn
   PRINCIPLE  → "Learn by breaking, build by understanding."
-  STATUS     → [████████████░░] ONLINE
 ```
 
 ---
