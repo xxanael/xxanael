@@ -84,11 +84,13 @@
 
 <div align="center">
 
-![Anaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF)
+![Anaël's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=xxanael&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6600&currStreakLabel=00FFCC)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxanael&theme=tokyonight)
 
 </div>
 
