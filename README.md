@@ -120,3 +120,9 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=xxanael&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A599C9&height=120&section=footer"/>
+</p>
