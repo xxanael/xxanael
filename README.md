@@ -69,16 +69,6 @@
 
 ---
 
-## `[ CERTIFICATIONS ]`
-
-| Badge | Certification | Plateforme |
-|-------|--------------|------------|
-| ✅ | **Foundational C# Certification** | Microsoft / freeCodeCamp |
-| [![Cisco](https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/linkedin_thumb_I2CS__1_.png)](https://www.credly.com/badges/485c4d57-77bd-47e1-83be-165554428e88/public_url) | **Introduction to Cybersecurity** | Cisco |
-| 🌐 | **Portfolio Personnel** | [xxanael.github.io](https://xxanael.github.io/Portfolio_xxanael/) |
-
----
-
 ## `[ GITHUB STATS ]`
 
 <div align="center">
@@ -98,10 +88,9 @@
 ## `[ INTÉRÊTS ]`
 
 ```
-🥋  Gaming Hardcore  →  Sekiro · Hollow Knight · Nine Sols
-🧧  Anime & Manga    →  Frieren · Jujutsu Kaisen
+🥋  Gaming Hardcore  →  Zelda · Hollow Knight · Nine Sols
+🧧  Anime & Manga    →  Frieren · Jujutsu Kaisen · Naruto
 🏀  Sport            →  Basketball
-♟️  Stratégie        →  Échecs
 ```
 
 ---
