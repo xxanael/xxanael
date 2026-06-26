@@ -64,7 +64,7 @@
 ### ◆ Security Labs
 
 ![Root-Me](https://img.shields.io/badge/Root--Me-black?style=for-the-badge&logo=target&logoColor=red)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)
 ![picoCTF](https://img.shields.io/badge/picoCTF-0066CC?style=for-the-badge&logo=flag&logoColor=white)
 
 ---
