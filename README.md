@@ -34,11 +34,11 @@
 ## `[ À PROPOS ]`
 
 - 🎓 Étudiant en **1ère année de Sécurité des Systèmes Informatiques (SSI)**
-- 🛡️ Passionné par la cybersécurité — compétiteur CTF en **Forensics, Reverse, Web, Pwn**
+- 🛡️ Passionné par la cybersécurité — compétiteur CTF en **Forensics, Web, OSINT**
 - 🎮 Auteur de [**Nexus-Arena**](https://github.com/xxanael/Nexus-Arena) — projet de jeu développé en C
 - 🤖 Expert dans le **pilotage d'IA** pour accélérer le prototypage de projets
 - 📖 Auteur de l'ebook : **Guide pratique du débutant — Devenir expert en cybersécurité**
-- 🏆 Challenger actif sur **Root-Me**, **Hack The Box** et **picoCTF**
+- 🏆 Challenger actif sur **Root-Me**, **TryHackMe** et **picoCTF**
 
 ---
 
