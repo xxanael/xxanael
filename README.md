@@ -25,7 +25,7 @@
   LOCATION   → Bénin 🇧🇯
   ROLE       → SSI Student · CTF Player · Developer
   LANGUAGES  → C# · Python · C · SQL · HTML/CSS
-  FOCUS      → Cybersecurity · Reverse Engineering · Pwn
+  FOCUS      → Cybersecurity · Web Exploitation · OSINT
   PRINCIPLE  → "Learn by breaking, build by understanding."
 ```
 
