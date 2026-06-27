@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=120&section=header&text=xxanael&fontSize=50&fontColor=0D1117&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Étudiant+en+SSI;CTF+Player+%7C+Forensics+·+OSINT+·+PWN;Learn+by+breaking%2C+build+by+understanding." alt="Typing SVG" />
+<div align="center">
+  <img src="./mimiqui.jpg" width="100%" alt="Mimikyu banner"/>
+</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A788DC&center=true&vCenter=true&width=435&lines=Étudiant+en+SSI;CTF+Player+%7C+Forensics+·+OSINT+·+Web." alt="Typing SVG" />
 
 </div>
 
@@ -103,7 +104,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dona-marie-fid%C3%A8le-ana%C3%ABl-singbo-56526a3a6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donasingbo332@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=githubpages&logoColor=black)](https://xxanael.github.io/Portfolio_xxanael/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A788DC?style=for-the-badge&logo=githubpages&logoColor=black)](https://xxanael.github.io/Portfolio_xxanael/)
 
 </div>
 
@@ -119,8 +120,8 @@
 ╚══════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=xxanael&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=xxanael&color=A788DC&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A788DC&height=120&section=footer"/>
