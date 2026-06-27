@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+SSI;Cybersecurity+Enthusiast;C%23+%2F+Python+%2F+C+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A788DC&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+SSI;Cybersecurity+Enthusiast;C%23+%2F+Python+%2F+C+Dev" alt="Typing SVG" />
 
 </div>
 
@@ -52,7 +52,6 @@
 
 <img src="https://skillicons.dev/icons?i=windows,linux,debian&theme=dark" />
 
-
 ### ◆ Tools ◆
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
@@ -73,13 +72,11 @@
 <div align="center">
 
 <table><tr>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF"/></td>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF"/></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A788DC&icon_color=A788DC&text_color=FFFFFF"/></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A788DC&text_color=FFFFFF"/></td>
 </tr></table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=xxanael&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6600&currStreakLabel=00FFCC)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxanael&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=xxanael&theme=tokyonight&hide_border=true&background=0D1117&stroke=A788DC&ring=A788DC&fire=FF6600&currStreakLabel=A788DC)
 
 </div>
 
