@@ -20,7 +20,7 @@
   LANGUAGES  → C# · Python · C · SQL · HTML/CSS
   FOCUS      → Cybersecurity · Web Exploitation · OSINT
   PRINCIPLE  → "Learn by breaking, build by understanding."
-` ` `
+```
 
 ---
 
@@ -61,16 +61,10 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF"/>
-    </td>
-  </tr>
-</table>
+<table><tr>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF"/></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF"/></td>
+</tr></table>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=xxanael&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6600&currStreakLabel=00FFCC)
 
@@ -95,7 +89,7 @@
 🧧  Anime & Manga  →  Frieren · Jujutsu Kaisen · Naruto
 🏀  Sport          →  Basketball
 🎯  CTF Handle     →  xxa.nael
-` ` `
+```
 
 ---
 
@@ -113,13 +107,13 @@
 
 <div align="center">
 
-` ` `
+```
 ╔══════════════════════════════════════╗
 ║  "The quieter you become,            ║
 ║   the more you are able to hear."    ║
 ║                        — Kali Linux  ║
 ╚══════════════════════════════════════╝
-` ` `
+```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=xxanael&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS)
 
