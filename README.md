@@ -8,7 +8,7 @@
 
 ---
 
-## `$ whoami`
+## 👾 `$ whoami`
 
 ```bash
 ┌──(anaël㉿kali)-[~]
@@ -24,7 +24,7 @@
 
 ---
 
-## `[ ABOUT ]`
+## 👾 `[ ABOUT ]`
 
 - 🎓 Étudiant en **1ère année SSI** @ HECM
 - 🛡️ Compétiteur CTF — **Forensics · Web · OSINT · PWN**
@@ -33,31 +33,35 @@
 
 ---
 
-## `[ TECH STACK ]`
+## 👾 `[ TECH STACK ]`
 
-### ◆ Langages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### ◆ Outils & OS
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=gnu&logoColor=white)
+### ◆ Languages & Dev Tools ◆
 
-### ◆ Security Labs
-![Root-Me](https://img.shields.io/badge/Root--Me-black?style=for-the-badge&logo=target&logoColor=red)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)
+<img src="https://skillicons.dev/icons?i=cs,python,c,html,css&theme=dark" />
+
+### ◆ Operating Systems ◆
+
+<img src="https://skillicons.dev/icons?i=windows,linux,debian&theme=dark" />
+
+
+### ◆ Tools ◆
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
+
+### ◆ Security Labs ◆
+
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)
+![Root-Me](https://img.shields.io/badge/Root--Me-black?style=for-the-badge&logo=target&logoColor=red)
 ![picoCTF](https://img.shields.io/badge/picoCTF-0066CC?style=for-the-badge&logo=flag&logoColor=white)
+
+</div>
 
 ---
 
-## `[ DEVELOPER METRICS ]`
+## 👾 `[ DEVELOPER METRICS ]`
 
 <div align="center">
 
@@ -74,7 +78,7 @@
 
 ---
 
-## `[ CONTRIBUTION TRAIL ]`
+## 👾 `[ CONTRIBUTION TRAIL ]`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/xxanael/xxanael/output/github-contribution-grid-snake-dark.svg"/>
@@ -82,7 +86,7 @@
 
 ---
 
-## `[ INTERESTS ]`
+## 👾 `[ INTERESTS ]`
 
 ```
 🥋  Gaming         →  Zelda · Hollow Knight · Nine Sols
@@ -93,7 +97,7 @@
 
 ---
 
-## `[ CONNECT ]`
+## 👾 `[ CONNECT ]`
 
 <div align="center">
 
