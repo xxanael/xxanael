@@ -1,15 +1,8 @@
 <div align="center">
 
-```
-██╗  ██╗██╗  ██╗ █████╗ ███╗   ██╗ █████╗ ███████╗██╗
-╚██╗██╔╝╚██╗██╔╝██╔══██╗████╗  ██║██╔══██╗██╔════╝██║
- ╚███╔╝  ╚███╔╝ ███████║██╔██╗ ██║███████║█████╗  ██║
- ██╔██╗  ██╔██╗ ██╔══██║██║╚██╗██║██╔══██║██╔══╝  ██║
-██╔╝ ██╗██╔╝ ██╗██║  ██║██║ ╚████║██║  ██║███████╗███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=120&section=header&text=xxanael&fontSize=50&fontColor=0D1117&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+SSI;Cybersecurity+Enthusiast;C%23+%2F+Python+%2F+C+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Étudiant+en+SSI;CTF+Player+%7C+Forensics+·+OSINT+·+PWN;Learn+by+breaking%2C+build+by+understanding." alt="Typing SVG" />
 
 </div>
 
@@ -27,25 +20,22 @@
   LANGUAGES  → C# · Python · C · SQL · HTML/CSS
   FOCUS      → Cybersecurity · Web Exploitation · OSINT
   PRINCIPLE  → "Learn by breaking, build by understanding."
-```
+` ` `
 
 ---
 
-## `[ À PROPOS ]`
+## `[ ABOUT ]`
 
-- 🎓 Étudiant en **1ère année de Sécurité des Systèmes Informatiques (SSI)**
-- 🛡️ Passionné par la cybersécurité — compétiteur CTF en **Forensics, Web, OSINT**
-- 🎮 Auteur de [**Nexus-Arena**](https://github.com/xxanael/Nexus-Arena) — projet de jeu développé en C
-- 🤖 Expert dans le **pilotage d'IA** pour accélérer le prototypage de projets
-- 📖 Auteur de l'ebook : **Guide pratique du débutant — Devenir expert en cybersécurité**
-- 🏆 Challenger actif sur **Root-Me**, **TryHackMe** et **picoCTF**
+- 🎓 Étudiant en **1ère année SSI** @ HECM
+- 🛡️ Compétiteur CTF — **Forensics · Web · OSINT · PWN**
+- 🤖 Auteur de l'ebook : *Guide pratique du débutant en cybersécurité*
+- 🏆 Actif sur **Root-Me · TryHackMe · picoCTF · HackTheBox**
 
 ---
 
 ## `[ TECH STACK ]`
 
 ### ◆ Langages
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -54,28 +44,33 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ◆ Outils & OS
-
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### ◆ Security Labs
-
 ![Root-Me](https://img.shields.io/badge/Root--Me-black?style=for-the-badge&logo=target&logoColor=red)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![picoCTF](https://img.shields.io/badge/picoCTF-0066CC?style=for-the-badge&logo=flag&logoColor=white)
 
 ---
 
-## `[ GITHUB STATS ]`
+## `[ DEVELOPER METRICS ]`
 
 <div align="center">
 
-![Anaël's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=FFFFFF"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF"/>
+    </td>
+  </tr>
+</table>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=xxanael&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=FF6600&currStreakLabel=00FFCC)
 
@@ -85,13 +80,22 @@
 
 ---
 
-## `[ INTÉRÊTS ]`
+## `[ CONTRIBUTION TRAIL ]`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xxanael/xxanael/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+## `[ INTERESTS ]`
 
 ```
-🥋  Gaming Hardcore  →  Zelda · Hollow Knight · Nine Sols
-🧧  Anime & Manga    →  Frieren · Jujutsu Kaisen · Naruto
-🏀  Sport            →  Basketball
-```
+🥋  Gaming         →  Zelda · Hollow Knight · Nine Sols
+🧧  Anime & Manga  →  Frieren · Jujutsu Kaisen · Naruto
+🏀  Sport          →  Basketball
+🎯  CTF Handle     →  xxa.nael
+` ` `
 
 ---
 
@@ -109,20 +113,16 @@
 
 <div align="center">
 
-```
+` ` `
 ╔══════════════════════════════════════╗
 ║  "The quieter you become,            ║
 ║   the more you are able to hear."    ║
 ║                        — Kali Linux  ║
 ╚══════════════════════════════════════╝
-```
+` ` `
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=xxanael&color=00FFCC&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A599C9&height=120&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=120&section=footer"/>
