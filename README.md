@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="./mimiqui.jpg" width="100%" alt="Mimikyu banner"/>
+  <img src="./miyamoto.jpg" width="100%" alt="Mimikyu banner"/>
 </div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A788DC&center=true&vCenter=true&width=435&lines=Étudiant+en+SSI;CTF+Player+%7C+Forensics+·+OSINT+·+Web." alt="Typing SVG" />
 
