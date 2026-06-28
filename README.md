@@ -107,7 +107,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dona-marie-fid%C3%A8le-ana%C3%ABl-singbo-56526a3a6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donasingbo332@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A788DC?style=for-the-badge&logo=githubpages&logoColor=black)](https://xxanael.github.io/Portfolio_xxanael/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-A788DC?style=for-the-badge&logo=githubpages&logoColor=black)](https://xxanael.github.io/Portfolio/)
 
 </div>
 
