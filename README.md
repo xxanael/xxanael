@@ -54,7 +54,7 @@
 
 ### ◆ Tools ◆
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,bash,vscode,mysql&theme=dark" />
 
 ### ◆ Security Labs ◆
 
