@@ -46,7 +46,7 @@
 
 ### ◆ Languages & Dev Tools ◆
 
-<img src="https://skillicons.dev/icons?i=cs,python,c,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css&theme=dark" />
 
 ### ◆ Operating Systems ◆
 
