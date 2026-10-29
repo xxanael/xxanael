@@ -54,7 +54,13 @@
 
 ### ◆ Tools ◆
 
-<img src="https://skillicons.dev/icons?i=git,github,bash,vscode,mysql,nmap,gobuster,burpsuite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,bash,vscode,mysql&theme=dark" />
+
+### ◆ Pentest Tools ◆
+
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 
 ### ◆ Security Labs ◆
 
