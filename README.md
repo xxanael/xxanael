@@ -50,7 +50,7 @@
 
 ### ◆ Operating Systems ◆
 
-<img src="https://skillicons.dev/icons?i=windows,linux,debian&theme=dark" />
+<img src="https://skillicons.dev/icons?i=windows,linux,debian,kali&theme=dark" />
 
 ### ◆ Tools ◆
 
