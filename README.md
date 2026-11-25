@@ -2,7 +2,8 @@
 <div align="center">
 
 <img src="./banner.jpg" width="100%" alt="xxanael banner"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F011F&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+SSI;Cybersecurity+Enthusiast;C%23+%2F+Python+%2F+C+Dev" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F011F&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+SSI;Cybersecurity+Enthusiast;C%2B%2B+%2F+Python+%2F+C+Dev" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +18,7 @@
   NAME       → Anaël (xxanael)
   LOCATION   → Bénin 🇧🇯
   ROLE       → SSI Student · CTF Player · Developer
-  LANGUAGES  → C# · Python · C · SQL · HTML/CSS
+  LANGUAGES  → C++ · Python · C · SQL · HTML/CSS
   FOCUS      → Cybersecurity · Web Exploitation · OSINT
   PRINCIPLE  → "Learn by breaking, build by understanding."
 ```
@@ -29,7 +30,7 @@
 - 🎓 Étudiant en **1ère année SSI** @ HECM
 - 🛡️ Compétiteur CTF — **Forensics · Web · OSINT · PWN**
 - 🤖 Auteur de l'ebook : *Guide pratique du débutant en cybersécurité*
-- 🏆 Actif sur **Root-Me · TryHackMe · picoCTF · HackTheBox**
+- 🏆 Actif sur **Root-Me · TryHackMe · Cylab Academy · HackTheBox**
 
 ---
 
@@ -39,7 +40,7 @@
 
 ### ◆ Languages & Dev Tools ◆
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css&theme=dark" />
 
 ### ◆ Operating Systems ◆
 
@@ -55,13 +56,14 @@
 ![Gobuster](https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white)
+![Gophish](https://img.shields.io/badge/Gophish-7F011F?style=for-the-badge&logo=maildotru&logoColor=white)
 
 ### ◆ Security Labs ◆
 
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11111)
 ![Root-Me](https://img.shields.io/badge/Root--Me-black?style=for-the-badge&logo=target&logoColor=red)
-![picoCTF](https://img.shields.io/badge/picoCTF-0066CC?style=for-the-badge&logo=flag&logoColor=white)
+![Cylab Academy](https://img.shields.io/badge/Cylab_Academy-7F011F?style=for-the-badge&logo=academia&logoColor=white)
 
 </div>
 
@@ -71,12 +73,20 @@
 
 <div align="center">
 
-<table><tr>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F011F&icon_color=7F011F&text_color=FFFFFF"/></td>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F011F&text_color=FFFFFF"/></td>
-</tr></table>
+<table>
+<tr>
+<td>
+<img src="https://github-stats-extended.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F011F&icon_color=7F011F&text_color=FFFFFF" alt="GitHub Stats"/>
+</td>
+<td>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F011F&text_color=FFFFFF" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=xxanael&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F011F&ring=7F011F&fire=FF6600&currStreakLabel=7F011F)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=xxanael&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F011F&ring=7F011F&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=7F011F&sideLabels=7F011F&dates=AAAAAA&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -85,7 +95,7 @@
 ## 👾 `[ CONTRIBUTION TRAIL ]`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/xxanael/xxanael/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/xxanael/xxanael/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 ---
