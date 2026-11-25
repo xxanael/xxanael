@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/xxanael/xxanael/assets/banner.png" width="100%" alt="xxanael banner"/>
+<img src="https://raw.githubusercontent.com/xxanael/xxanael/banner.jpg" width="100%" alt="xxanael banner"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F011F&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+SSI;Cybersecurity+Enthusiast;C%23+%2F+Python+%2F+C+Dev" alt="Typing SVG" />
 
