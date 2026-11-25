@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ```
@@ -6,10 +7,10 @@
  ╚███╔╝  ╚███╔╝ ███████║██╔██╗ ██║███████║█████╗  ██║
  ██╔██╗  ██╔██╗ ██╔══██║██║╚██╗██║██╔══██║██╔══╝  ██║
 ██╔╝ ██╗██╔╝ ██╗██║  ██║██║ ╚████║██║  ██║███████╗███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A788DC&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+SSI;Cybersecurity+Enthusiast;C%23+%2F+Python+%2F+C+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F011F&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+SSI;Cybersecurity+Enthusiast;C%23+%2F+Python+%2F+C+Dev" alt="Typing SVG" />
 
 </div>
 
@@ -79,11 +80,11 @@
 <div align="center">
 
 <table><tr>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A788DC&icon_color=A788DC&text_color=FFFFFF"/></td>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A788DC&text_color=FFFFFF"/></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxanael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F011F&icon_color=7F011F&text_color=FFFFFF"/></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxanael&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F011F&text_color=FFFFFF"/></td>
 </tr></table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=xxanael&theme=tokyonight&hide_border=true&background=0D1117&stroke=A788DC&ring=A788DC&fire=FF6600&currStreakLabel=A788DC)
+![GitHub Streak](https://streak-stats.demolab.com?user=xxanael&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F011F&ring=7F011F&fire=FF6600&currStreakLabel=7F011F)
 
 </div>
 
@@ -114,7 +115,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dona-marie-fid%C3%A8le-ana%C3%ABl-singbo-56526a3a6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donasingbo332@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A788DC?style=for-the-badge&logo=githubpages&logoColor=black)](https://xxanael.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F011F?style=for-the-badge&logo=githubpages&logoColor=black)](https://xxanael.github.io/Portfolio/)
 
 </div>
 
@@ -130,8 +131,8 @@
 ╚══════════════════════════════════════╝
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=xxanael&color=A788DC&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=xxanael&color=7F011F&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A788DC&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F011F&height=120&section=footer"/>
